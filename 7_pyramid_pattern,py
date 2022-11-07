@@ -1,0 +1,8 @@
+def pyramid ( ) :
+    star = '*'
+    
+    for i in range ( 0,10 ) :
+        print ( star.center ( 20 , ' ' ) )
+        star += '**'
+
+pyramid()
