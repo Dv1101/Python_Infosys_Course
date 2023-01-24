@@ -9,6 +9,6 @@ print('Welcome, '+name)
 # print('Last Name :- ',sys.argv[2])
 # print('----------------------------')
 
-""" For loop for python, Give start point (it is included), end point (after desired number)"""
-for i in range(1,51):
-    print(i)
+# """ For loop for python, Give start point (it is included), end point (after desired number)"""
+# for i in range(1,51):
+#     print(i)
